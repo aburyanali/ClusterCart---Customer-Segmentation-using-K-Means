@@ -10,7 +10,9 @@
 
 <p align="center">
 
-<img src="assets/3d-clusters.png.jpeg" width="950"/>
+<a href="https://aburyanali.github.io/ClusterCart---Customer-Segmentation-using-K-Means/visualization-demo/">
+  <img src="https://raw.githubusercontent.com/aburyanali/ClusterCart---Customer-Segmentation-using-K-Means/main/assets/3d-clusters.png.jpeg" width="950"/>
+</a>
 
 </p>
 
