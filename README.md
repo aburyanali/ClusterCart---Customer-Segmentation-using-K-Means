@@ -11,7 +11,7 @@
 <p align="center">
 
 <a href="https://aburyanali.github.io/ClusterCart---Customer-Segmentation-using-K-Means/visualization-demo/">
-  <img src="https://raw.githubusercontent.com/aburyanali/ClusterCart---Customer-Segmentation-using-K-Means/main/assets/3d-clusters.png.jpeg" width="950"/>
+  <img src="https://raw.githubusercontent.com/aburyanali/ClusterCart---Customer-Segmentation-using-K-Means/main/assets/cluster-animation.gif" width="950"/>
 </a>
 
 </p>
